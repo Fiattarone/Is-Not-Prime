@@ -31,7 +31,7 @@ Thecoderunsfasterwhentherearenouselessspacesandnewlines.
 
 #### More effective optimization? 
 
-Back in the day, caps lock was cruise control for cool. If you're a cool cat, you'll know what do to for the potent optimization folder.
+Potent optimization folder:
 
 THECODERUNSCOOLERWHENTHEREARENOUSELESSLOWERCASESORSPACESANDNEWLINES.
 
